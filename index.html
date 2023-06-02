@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <link rel="stylesheet" href="style.css" />
+    <title>Weather Data</title>
+    <script src="script.js"></script>
+</head>
+<body>
+    <h1>Find My Weather</h1>
+    <button onclick="getWeather()">Get weather!</button>
+    <input placeholder="City" id="search">
+    <select id="units" onchange="updateUnits()">
+        <option value="m">Celsius</option>
+        <option value="f">Fahrenheit</option>
+    </select>
+    <img id="image"/>
+    <div id="output"></div>
+</body>
+</html>
