@@ -1,4 +1,9 @@
 # WeatherCloud
+HAVING ISSUES WITH API ALLOWING THE FETCH REQUEST!!!
+CHECK VIDEO!
+
+
+
 
 HTML :
 - Formats the page
